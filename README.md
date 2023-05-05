@@ -5,7 +5,7 @@
   
 - 👦 Eu sou <strong>Viviane Coelho</strong> de <strong>Pernambuco</strong>
 
-- 🔭 <strong>Informações sobre sua faculdade/curso</strong>
+- 🔭 <strong>Estácio/Análise e Desenvolvimento de Sistemas</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
