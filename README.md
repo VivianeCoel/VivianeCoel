@@ -32,7 +32,8 @@
 <a href = "https://www.linkedin.com/in/SEU_LINKEDIN_AQUI-4b872715a/" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-*************
+
+  *************
 **Contador De Visitas**
 
 ![VisitorCount](https://profile-counter.glitch.me/{VivianeCoel}/count.svg)
