@@ -14,11 +14,11 @@
 
 <p align="left">
   
-- 👦 Eu sou <strong>Viviane Coelho</strong> de <strong>Pernambuco</strong>
+-  Eu sou <strong>Viviane Coelho</strong> de <strong>Pernambuco</strong>
 
 - 🔭 <strong>Estácio/Análise e Desenvolvimento de Sistemas</strong>
 
-- 🌱 <strong>Migrando para a área de Tecnologia. Full-Stack - Estudando Java Script e Python</strong>
+- 🌱 <strong>Migrando para a área de Tecnologia. Full-Stack - Estudando Java Script, HTML, CSS e Python</strong>
 
 - 👯 Eu estou procurando colaborar em projetos open source.
 
