@@ -18,7 +18,7 @@
 
 - 🔭 <strong>Estácio/Análise e Desenvolvimento de Sistemas</strong>
 
-- 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
+- 🌱 <strong>Migrando para a área de Tecnologia. Full-Stack - Estudando Java Script e Python</strong>
 
 - 👯 Eu estou procurando colaborar em projetos open source.
 
@@ -36,4 +36,4 @@
 *************
 **Contador De Visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{VivianeCoel}/count.svg)
