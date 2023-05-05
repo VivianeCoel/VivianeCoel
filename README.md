@@ -1,6 +1,17 @@
 
 <p align="center"><b>Sobre mim</b></p>
 
+
+
+
+
+![091533bd800306c4d0fa628f66e5ffe3](https://user-images.githubusercontent.com/111070369/236527787-1f9e8a1c-de3d-40c4-9de8-237a3d32cbe7.gif)
+
+
+
+
+
+
 <p align="left">
   
 - 👦 Eu sou <strong>Viviane Coelho</strong> de <strong>Pernambuco</strong>
